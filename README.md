@@ -49,10 +49,10 @@ This dattaset consists of seven heterogenous tasks in Twitter, all framed as mul
 
 <hr/>
 
-## <font color="Blue" size=5> For every particular NLP task given, the most appropriate model that gives the best results has been chosen after the trial of many </font>
+### <font color="Blue" size=5> For every particular NLP task given, the most appropriate model that gives the best results has been chosen after the trial of many </font>
 
 <hr/>
 
-## <font color="Blue" size=5> For every particular NLP task given, the most appropriate evaluation metrics have been chosen </font>
+### <font color="Blue" size=5> For every particular NLP task given, the most appropriate evaluation metrics have been chosen </font>
 
 
