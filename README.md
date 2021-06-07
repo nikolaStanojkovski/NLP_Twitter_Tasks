@@ -41,14 +41,18 @@ This dattaset consists of seven heterogenous tasks in Twitter, all framed as mul
 
 <hr/>
 
-## <font color="Orange" size=5> All the work is given in the file "Prediction.ipynb" </font>
+## <font color="Orange" size=5> All the work is presented in the file "Prediction.ipynb" </font>
 
 <hr/>
 
-## <font color="Blue" size=5> For every particular NLP task given below, the most appropriate model that gives the best results has been chosen after the trial of many </font>
+## <font color="Orange" size=5> A little little walkthrough for the project is given in the file "Presentation.ppt" </font>
 
 <hr/>
 
-## <font color="Blue" size=5> For every particular NLP task given below, the most appropriate evaluation metrics have been chosen </font>
+## <font color="Blue" size=5> For every particular NLP task given, the most appropriate model that gives the best results has been chosen after the trial of many </font>
+
+<hr/>
+
+## <font color="Blue" size=5> For every particular NLP task given, the most appropriate evaluation metrics have been chosen </font>
 
 
