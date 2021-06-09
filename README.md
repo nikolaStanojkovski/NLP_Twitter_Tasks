@@ -2,13 +2,14 @@
 
 <hr/>
 
-# <font size=6> **Data Science Project by Nikola Stanojkovski && Ines Lesnovska** </font>
-
-<hr/>
-
 ## <font color = 'Orange' size = 5 > Seven NLP Tasks With Twitter Datasets </font>
 
 <hr/>
+<hr/>
+
+# Data Science Project by:
+# <i>Nikola Stanojkovski, Ines Lesnovska</i>
+
 <hr/>
 
 ## <font color="Orange" size=5> Source: https://www.kaggle.com/arashnic/7-nlp-tasks-with-tweets </font>
